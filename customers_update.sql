@@ -1,0 +1,1 @@
+UPDATE customers SET password='12345678',name='林米雪',birthday='2000-01-01' WHERE email='orange06@gmail.com';

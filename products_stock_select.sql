@@ -1,0 +1,1 @@
+SELECT product_id,color_name,size,stock FROM product_color_size_stock WHERE product_id='AB7745' AND color_name='深灰藍' AND size='S';
